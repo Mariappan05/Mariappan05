@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariappan R</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659331505383/WYd-NR4Rn.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+<img align="right" alt="coding" width="600" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659331505383/WYd-NR4Rn.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariappan05&label=Profile%20views&color=0e75b6&style=flat" alt="mariappan05" /> </p>
 
